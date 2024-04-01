@@ -15,3 +15,7 @@ The dataset comprises two tables: Customer_data and Sales_data. Customer_data co
 - Most Popular Payment Method / Age Distribution of Customers by Gender
 - Total Sales Revenue by Gender / Total Sales Revenue per Customer
 - Customers with Above Average Purchase Amount / Customers with No Purchases
+
+
+**Check out the SQL queries:**
+[Link](https://github.com/Eghosa2Ohenhen/Customer-Sales-Analysis/blob/main/Sales_of_Customers.sql)
